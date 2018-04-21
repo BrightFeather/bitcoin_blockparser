@@ -1,0 +1,378 @@
+Successfully opened block-chain input file './blk00000.dat'
+Warning: Missing block-header; scanning for next one.
+Failed to open block-chain input file './blk00001.dat'
+Scanned 156 block headers so far, 156 since last time.
+Found 156 block headers total. 0 in the last block.
+Building complete block-chain.
+Found 156 blocks and skipped 0 orphan blocks.
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 38 bytes long
+6a 
+24 aa 21 a9 ed 2a 48 60 ad 39 43 6b 99 44 33 79 
+35 9a de 12 ca 89 e8 2c 5b 5e 0a 23 46 85 ed 49 
+44 4e ee 54 89 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 0 : OutputIndex: 1 scriptLength: 38
+TRANSACTION HASH:431a7a77b51d89d99398bfd6f3c6167d19e10f374bea1278b2ce06d2de44ef69
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+6a 
+14 6f 6d 6e 69 00 00 00 00 00 00 00 03 00 00 00 
+00 00 00 01 2b 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 14 : OutputIndex: 0 scriptLength: 22
+TRANSACTION HASH:ec99d8330faf0a9323b52afe6bb4c48a60e3236b7188ef1c112e3ee803807924
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+6a 
+14 6f 6d 6e 69 00 00 00 00 00 00 00 1f 00 00 00 
+02 36 3e 7f 00 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 162 : OutputIndex: 0 scriptLength: 22
+TRANSACTION HASH:1011b93e56e1fe10149b6b2ce00e20ff4c95236d33e17232d57cdbf27e44228b
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+6a 
+14 6f 6d 6e 69 00 00 00 00 00 00 00 1f 00 00 00 
+03 42 77 0c 00 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 192 : OutputIndex: 0 scriptLength: 22
+TRANSACTION HASH:c4a850294df7fc316b9afc9836552dc4a43e842f45a587fc4e881def1160c0b0
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+6a 
+14 6f 6d 6e 69 00 00 00 00 00 00 00 1f 00 00 00 
+01 28 ae 9f 60 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 306 : OutputIndex: 1 scriptLength: 22
+TRANSACTION HASH:2e3909ce48b3c9c84d7958930d9e2d34ef2df925c8a1a7eb824a19e0f146f5f0
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+6a 
+14 6f 6d 6e 69 00 00 00 00 00 00 00 1f 00 00 00 
+00 05 f5 e1 00 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 308 : OutputIndex: 0 scriptLength: 22
+TRANSACTION HASH:f5b06b5a056d4c2a8cb1f305e746b5114b78c73ff35596140ddcaad84a89f959
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+6a 
+14 6f 6d 6e 69 00 00 00 00 00 00 00 1f 00 00 01 
+74 9f 46 04 00 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 530 : OutputIndex: 2 scriptLength: 22
+TRANSACTION HASH:c23572e50ec2602dd21ac7415ad9c1729513e9d818ca44a07c27bb4fcc4443f8
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+6a 
+14 6f 6d 6e 69 00 00 00 00 00 00 00 1f 00 00 00 
+2e 85 02 0e 00 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 711 : OutputIndex: 2 scriptLength: 22
+TRANSACTION HASH:ac9f9b1a2cd02f31154f761ecad5b58fb1373088c9a930c2f6bbd4102f676a9b
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+00 
+14 0d b8 4d 3c b8 0e 3f e6 85 83 45 83 d6 21 6d 
+07 36 bc 12 66 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,394 : OutputIndex: 0 scriptLength: 22
+****MULTI_SIG WARNING: Unable to decipher multi-sig output. Block 0 : Transaction: 1,394 : OutputIndex: 1
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 34 bytes long
+6a 
+20 ed 18 65 c4 94 3d cc 5c 05 74 a3 a9 0a 21 d5 
+58 80 d7 a8 85 92 fc 43 b6 78 5d 93 11 8d 55 25 
+ae 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,394 : OutputIndex: 1 scriptLength: 34
+TRANSACTION HASH:9a6c248dfd3c2997511b6e3ad0e5cd254831445a56558e541058bce66a32585f
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 76 bytes long
+6a 
+4a 40 43 4f 50 59 52 4f 42 4f 40 39 39 37 62 63 
+30 34 35 34 32 33 62 65 65 36 62 34 65 64 37 32 
+62 32 34 61 31 66 38 37 65 35 32 36 64 63 32 63 
+39 38 33 30 34 38 38 32 35 62 66 62 30 33 31 35 
+64 61 64 64 65 62 63 34 33 32 61 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,447 : OutputIndex: 0 scriptLength: 76
+TRANSACTION HASH:be453cb63463005a1645a2b9a5771a3fba3189e7fa72e8d7441dfffa6048cbc4
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 76 bytes long
+6a 
+4a 40 43 4f 50 59 52 4f 42 4f 40 30 35 39 39 65 
+39 64 36 37 36 36 37 37 64 66 30 30 39 32 61 66 
+65 65 64 38 66 64 33 37 35 66 66 39 30 63 64 66 
+62 31 66 34 33 38 61 35 30 65 64 65 32 64 32 63 
+30 30 36 32 34 32 31 31 38 34 66 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,448 : OutputIndex: 0 scriptLength: 76
+TRANSACTION HASH:1603d6e4d74b1e97ebeea33d6ed87a4d31a02572ddcde2af6067ab10c8cbedff
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 76 bytes long
+6a 
+4a 40 43 4f 50 59 52 4f 42 4f 40 64 30 61 61 36 
+37 33 38 31 61 66 39 63 39 32 39 37 37 63 63 63 
+65 62 36 63 39 65 34 66 32 37 63 36 32 33 37 63 
+34 36 32 65 31 62 64 61 36 35 37 62 35 32 36 37 
+61 31 62 36 30 63 63 36 65 35 64 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,449 : OutputIndex: 0 scriptLength: 76
+TRANSACTION HASH:b4af75e72e3f2d9191fc36904df5150d1b6de6f696fd0f09252cfdc813986ca6
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 76 bytes long
+6a 
+4a 40 43 4f 50 59 52 4f 42 4f 40 32 61 35 33 62 
+64 61 63 62 62 35 64 37 66 33 65 35 63 34 62 35 
+39 35 37 61 36 35 66 33 62 62 37 37 33 31 35 32 
+31 34 33 30 64 31 33 63 64 32 64 37 35 39 63 62 
+35 30 34 62 31 35 65 33 35 66 36 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,450 : OutputIndex: 0 scriptLength: 76
+TRANSACTION HASH:4d0b6e1518718043560b62948df1160b5236204c8150d4a2b7ccab2d30a73796
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 76 bytes long
+6a 
+4a 40 43 4f 50 59 52 4f 42 4f 40 35 62 64 63 35 
+31 34 66 38 38 39 61 64 33 62 31 61 63 64 61 39 
+61 31 33 62 33 30 62 65 62 37 37 37 36 62 36 34 
+64 61 30 62 64 37 65 31 36 66 39 32 62 35 62 39 
+33 61 39 66 64 62 35 39 62 36 31 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,451 : OutputIndex: 0 scriptLength: 76
+TRANSACTION HASH:0129ec1565dd17e97332370ad2af121d23d30c6d1b221f5b93d381b731c60801
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 76 bytes long
+6a 
+4a 40 43 4f 50 59 52 4f 42 4f 40 37 34 61 62 66 
+66 38 32 30 66 33 32 39 33 62 63 64 62 34 30 63 
+39 39 64 35 65 36 35 38 38 65 32 32 38 66 37 35 
+39 39 32 64 32 32 31 33 39 62 65 37 32 33 61 62 
+38 33 30 65 33 37 66 66 35 39 30 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,452 : OutputIndex: 0 scriptLength: 76
+TRANSACTION HASH:7292dc02da3b7daef1421a17d7f802b00a761eff3b90ca14346044f1adaa0066
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+6a 
+14 db d3 7b bd 10 bb 06 6b ae e2 48 28 27 50 a0 
+39 69 41 13 11 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,561 : OutputIndex: 0 scriptLength: 22
+TRANSACTION HASH:e32d510430f19572d257114626a2cc37e8d9dba7e2ca8f6d9b8caab8c26fa1ab
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+6a 
+14 3c 6b 08 b4 20 ce 1c c6 55 af 61 40 18 a3 03 
+1e f6 91 e2 a8 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,562 : OutputIndex: 0 scriptLength: 22
+TRANSACTION HASH:434b343afda52a6822633c8c7e8267572163ebabe28130cc6182977b758a1a48
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+6a 
+14 9e 31 4a c0 c4 2f e9 b8 16 01 ff d1 f7 fe 0a 
+0e 25 fb 24 a0 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,563 : OutputIndex: 0 scriptLength: 22
+TRANSACTION HASH:8b825e0422bbccd680b60f43d411f54024a4907a701c77bac90af74e7d6a8f84
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+6a 
+14 4d dc 47 2d 22 62 de 8d e7 03 e1 cc 05 d3 61 
+94 7c e4 71 28 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,564 : OutputIndex: 0 scriptLength: 22
+TRANSACTION HASH:4bb91c0f6ac31f7cc96951745d8a8c96b04f7dfa59dc927ce331164a715861a1
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+6a 
+14 84 85 42 af 75 7b 21 33 8b db 7a 86 6b 32 0c 
+a4 61 7b 91 9a 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,565 : OutputIndex: 0 scriptLength: 22
+TRANSACTION HASH:8e587fbe6fb76bac5106bc73fd5d1254c52fab82fb8be5c9bc70cd03d571c7b2
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+6a 
+14 90 15 83 42 1b 90 33 8a d2 88 64 fd 64 c6 0a 
+a3 b3 54 ab f3 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,566 : OutputIndex: 0 scriptLength: 22
+TRANSACTION HASH:0e0cf23a86c03151efa35039dc03301aaf8e3437821d0ca809bf9cde244158bd
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+6a 
+14 02 d9 22 d0 4c 70 23 e9 f1 e6 53 ed 98 90 03 
+e7 73 25 b2 77 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,567 : OutputIndex: 0 scriptLength: 22
+TRANSACTION HASH:cb1853aed06478f80d02f42e9a282721adeb36702fd71987e76b753099ac46eb
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+6a 
+14 f7 b2 6f 09 61 ec dd b2 bf 1b 7c 01 20 3a cf 
+fb 9f d0 f5 90 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,573 : OutputIndex: 0 scriptLength: 22
+TRANSACTION HASH:c3535f26f76909ff65032e37f29d41dfcc7975bb4169c218da7950b09b283104
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+6a 
+14 f8 54 ff 80 44 58 09 f4 94 d7 06 5e dc 99 98 
+1c d0 ae 48 6f 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,574 : OutputIndex: 0 scriptLength: 22
+TRANSACTION HASH:ac9d06f52b7b190c51471a59f634616970b355ba1622618e5186951d42485f19
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+6a 
+14 bf 6d c7 d7 96 1e 45 38 89 ba f8 21 b5 0c 18 
+0d 90 58 cf 8a 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,575 : OutputIndex: 0 scriptLength: 22
+TRANSACTION HASH:59a108eff314b0b9abec4d87c1cd6eed9741624b7d76e8e000b5810f96c0d941
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+6a 
+14 35 cb 57 30 08 0d a2 0d ce 26 18 a9 9e f2 66 
+93 e4 68 f5 0d 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,576 : OutputIndex: 0 scriptLength: 22
+TRANSACTION HASH:8f642841b114e9f56f957a9a67c7167e69fdcf454cc806428e2ef67e10601484
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+6a 
+14 fd e7 3c d8 03 f2 9f 21 d7 bd be a7 9c c1 99 
+f1 3a 6c f8 e7 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,577 : OutputIndex: 0 scriptLength: 22
+TRANSACTION HASH:5669964eae229e4ab8772d28606ac3e97cf9e6e0875ec74e37c117112df08190
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+6a 
+14 b9 11 45 c4 43 54 40 5b 90 e4 16 f4 da d2 d9 
+f5 85 67 69 a1 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,578 : OutputIndex: 0 scriptLength: 22
+TRANSACTION HASH:9779e901a35146379dcd52ce9c799e176a777bcf87ee88f20fe731feeb26fac5
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+6a 
+14 e3 63 d6 47 74 be e5 b4 07 07 18 2e 90 33 60 
+96 6e bf 30 37 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,579 : OutputIndex: 0 scriptLength: 22
+TRANSACTION HASH:4561e7eaf9eff5cbdf12c87c4c4b8f7653000642e6934d05bbc605f0497814c6
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+6a 
+14 4d 7f e7 92 34 9c 57 e7 87 13 e8 2e 0e a7 b4 
+4e c6 74 73 83 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,580 : OutputIndex: 0 scriptLength: 22
+TRANSACTION HASH:7d5f39d34feee75f1fe669a7c975ce075e5e966b943a2118311c8dd8943d0dcb
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+6a 
+14 8d 8b ac 71 2e 82 c8 92 36 46 95 57 b6 74 5a 
+b4 40 98 6b ad 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,581 : OutputIndex: 0 scriptLength: 22
+TRANSACTION HASH:d82794bfa1ae9ed7b6067edf41281555e3eded383376575bdee40f0f98ee08cf
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+6a 
+14 a1 88 08 a2 a3 46 47 ef 47 37 ea 77 83 0c 81 
+13 e5 ff e2 a4 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,582 : OutputIndex: 0 scriptLength: 22
+TRANSACTION HASH:69b1800475ceeff67e2cefe6d81dfdde572a800849e9374cd5caea23a883e9d8
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 22 bytes long
+6a 
+14 d7 cd 37 14 92 91 73 00 69 1a 74 75 fc f7 d5 
+0a 42 24 50 e9 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,583 : OutputIndex: 0 scriptLength: 22
+TRANSACTION HASH:7bd5b75091c0ee50659f4d23d2372acc04d1f7696ccd3b147894ce174c0ea0dc
+==========================================
+FAILED TO LOCATE PUBLIC KEY
+ChallengeScriptLength: 41 bytes long
+6a 
+27 32 32 35 36 35 30 33 31 31 32 36 32 30 38 36 
+37 33 38 35 39 35 36 32 38 35 37 38 37 38 34 31 
+32 36 34 32 39 31 36 34 
+==========================================
+
+WARNING: Failed to decode public key in output script. Block 0 : Transaction: 1,735 : OutputIndex: 1 scriptLength: 41
+TRANSACTION HASH:0c0abce3e6ba3f1d40a385f8d1b4a845bebd58947574f1c9fd26645da64b995e
