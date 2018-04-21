@@ -1,4 +1,10 @@
 
+To run code, type in command line:
+1. make 
+2. ./blockchain.out <parameters>
+
+-----------------------------------------------------
+
 BITCOIN TIP JAR: "1BT66EoaGySkbY9J6MugvQRhMMXDwPxPya"
 
 
